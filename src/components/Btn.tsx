@@ -7,6 +7,8 @@ export const Btn = styled.button`
   border-radius:2px;
   color: white;
   border:none;
+  font-size:10px;
+  font-weight: 700;
 
 
 &:hover {
@@ -19,6 +21,7 @@ export const Btn = styled.button`
 export const BtnCont = styled.div`
   display:flex;
   padding-left: 15px;
+  padding-top: 20px;
   gap:10px
   
   
